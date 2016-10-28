@@ -51,8 +51,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Goyvaerts Jeroen
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: jeroen.goyvaerts@student.kdg.be
+	- github: https://github.com/JeroenGoyvaerts/software-engineering-oplossingen.git
 
 - Ho Cindy
 	- e-mailadres: cindy.ho@student.kdg.be
